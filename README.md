@@ -1,4 +1,3 @@
----
 
 - 👋 Olá, eu sou @TassioSouza
 - 👀 Estou interessado em: Participar de projetos de desenvolvimento, aprender mais e aplicar o que eu tenho de conhecimento.
@@ -10,6 +9,3 @@
 - ⚡ Curiosidade: Tenho paixão pela área da programação e desenvolvimento, busca de soluções.
 - Estou à procura de oportunidades que possam me ajudar e estou disposto a enfrentar desafios.
 - Tenho domínio com algumas linguagens de programação, mas acho que posso fazer mais do que simples resoluções simples.
-
----
-
